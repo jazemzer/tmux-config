@@ -1,5 +1,5 @@
 # tmux-config
 
-git clone https://github.com/tony/tmux-config.git ~/.tmux
+git clone https://github.com/jazemzer/tmux-config.git ~/.tmux
 
 ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
